@@ -1,0 +1,7 @@
+/* This is my first attempt
+I'm trying out things that I'm learning */
+
+var greetingMessage = "Hello World";  //This is the initation line
+var shutDownMessage = "End of Line";  //This is an homage shut down line
+
+//end
